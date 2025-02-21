@@ -11,7 +11,7 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/intel/powertelemetry/internal/cpumodel"
+	"github.com/guojingzi/powertelemetry/internal/cpumodel"
 )
 
 // MSR offset definitions.

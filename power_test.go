@@ -16,7 +16,7 @@ import (
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 
-	"github.com/intel/powertelemetry/internal/cpumodel"
+	"github.com/guojingzi/powertelemetry/internal/cpumodel"
 )
 
 type coreFreqMock struct {

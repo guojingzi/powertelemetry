@@ -1,4 +1,4 @@
-module github.com/intel/powertelemetry
+module github.com/guojingzi/powertelemetry
 
 go 1.21
 

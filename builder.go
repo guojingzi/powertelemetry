@@ -12,8 +12,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/intel/powertelemetry/internal/cpumodel"
-	"github.com/intel/powertelemetry/internal/log"
+	"github.com/guojingzi/powertelemetry/internal/cpumodel"
+	"github.com/guojingzi/powertelemetry/internal/log"
 )
 
 var (

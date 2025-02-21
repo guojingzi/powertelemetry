@@ -17,7 +17,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/intel/powertelemetry/internal/log"
+	"github.com/guojingzi/powertelemetry/internal/log"
 )
 
 const (

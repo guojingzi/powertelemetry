@@ -8,7 +8,7 @@ package powertelemetry
 import (
 	"fmt"
 
-	"github.com/intel/powertelemetry/internal/cpumodel"
+	"github.com/guojingzi/powertelemetry/internal/cpumodel"
 )
 
 // CheckIfCPUC1StateResidencySupported checks if CPU C1 state residency metric is supported by CPU model.

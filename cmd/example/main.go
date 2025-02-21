@@ -13,8 +13,8 @@ import (
 	"os"
 	"time"
 
-	powertelemetry "github.com/intel/powertelemetry"
-	"github.com/intel/powertelemetry/internal/version"
+	powertelemetry "github.com/guojingzi/powertelemetry"
+	"github.com/guojingzi/powertelemetry/internal/version"
 )
 
 const (

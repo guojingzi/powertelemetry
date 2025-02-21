@@ -8,8 +8,8 @@ package powertelemetry
 import (
 	"fmt"
 
-	"github.com/intel/powertelemetry/internal/cpuid"
-	"github.com/intel/powertelemetry/internal/cpumodel"
+	"github.com/guojingzi/powertelemetry/internal/cpuid"
+	"github.com/guojingzi/powertelemetry/internal/cpumodel"
 )
 
 // MaxTurboFreq is an item of a list of max turbo frequencies and related active cores.
